@@ -39,9 +39,6 @@ The goal is to build a model that accurately estimates house prices based on var
 7. **Prediction:**
    - Once trained, the model can predict house prices for new data points containing relevant features.
 
-**Project Structure**
-
-(Provide a brief description of your project's file organization, highlighting key files like `data.csv` (house price data), `model.py` (model training script), and `predict.py` (prediction script) if applicable.)
 
 **Requirements**
 
