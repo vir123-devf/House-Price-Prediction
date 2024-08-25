@@ -47,8 +47,7 @@ The goal is to build a model that accurately estimates house prices based on var
 
 **Getting Started**
 
-- Clone this repository: `git clone https://github.com/<your-username>/house-price-prediction.git`
-
+- Clone this repository: `https://github.com/vir123-devf/house-price-prediction.git`
 
 **Future Enhancements**
 
